@@ -1,0 +1,2 @@
+@uniswap/permit2/=lib/permit2/
+@openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
